@@ -24,11 +24,13 @@ This project demonstrates practical skills in **data cleaning, modeling, DAX, vi
 
 ### 🔹 Main Sales Dashboard
 
-![XStore Sales Dashboard](images/xstore_sales_dashboard.png)
+<img width="1304" height="720" alt="image" src="https://github.com/user-attachments/assets/4ade2ac4-2f96-48e6-b298-cf0269751be5" />
+
 
 ### 🔹 Sales Forecast View
 
-![XStore Sales Forecast](images/xstore_sales_forecast.png)
+<img width="1299" height="719" alt="image" src="https://github.com/user-attachments/assets/0d6d507d-745e-4bbf-80ad-1f800b684c12" />
+
 
 ---
 
@@ -42,19 +44,6 @@ These KPIs provide an instant snapshot of business performance.
 
 ---
 
-### 2️⃣ Sales Analysis
-
-* **Sales by Order Date:**
-
-  * Daily sales trend with seasonality and volatility
-  * Zoom-in view for recent months
-* **Sales by Month & Year:**
-
-  * Year-over-year comparison (2019 vs 2020)
-  * Growth acceleration toward Q4
-
----
-
 ### 3️⃣ Profit Analysis
 
 * **Profit by Month & Year:**
@@ -63,24 +52,6 @@ These KPIs provide an instant snapshot of business performance.
   * Identifies strong and weak months
 
 ---
-
-### 4️⃣ Category & Subcategory Insights
-
-* **Sales by Category:**
-
-  * Office Supplies
-  * Technology
-  * Furniture
-* **Sales by Subcategory:**
-
-  * Phones
-  * Chairs
-  * Binders
-
-Helps prioritize high-revenue product lines.
-
----
-
 ### 5️⃣ Customer & Operations Insights
 
 * **Sales by Segment:**
